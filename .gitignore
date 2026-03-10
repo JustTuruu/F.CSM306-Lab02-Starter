@@ -40,4 +40,5 @@
 # debug information files
 *.dwo
 
+# compiled source files
 lab2
